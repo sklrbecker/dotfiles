@@ -23,3 +23,4 @@ _darcs
 
 # BEGIN CUSTOM IGNORE
 /scripts.*
+package_list.txt
