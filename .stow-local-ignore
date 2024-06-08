@@ -1,0 +1,25 @@
+# DEFAULT STOW IGNORE LIST
+RCS
+._,v
+
+CVS
+.\#.+
+\.cvsignore
+
+\.svn
+_darcs
+\.hg
+
+\.git
+\.gitignore
+\.gitmodules
+
+.+~
+\#.*\#
+
+^/README.*
+^/LICENSE.*
+^/COPYING
+
+# BEGIN CUSTOM IGNORE
+/scripts.*
